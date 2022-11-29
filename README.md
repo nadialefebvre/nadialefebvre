@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="name.gif" />
+  <img src="name-typewriter.gif" width="100%" />
 </div>
 
-- 👋 Hi, I’m Nadia Lefebvre, frontend developer
-- 🌱 I graduated from <a href="https://www.technigo.io" title="Technigo">Technigo</a>'s bootcamp, class of January '22.
-- 📚 [Portfolio available here](https://nadialefebvre.dev/ "Nadia Lefebvre - portfolio")
-- 💼 [Find me on LinkedIn](https://www.linkedin.com/in/nadiainsweden/ "Nadia Lefebvre - LinkedIn")
-- 📫 [Reach me via email](mailto:dev.nadialefebvre@gmail.com "Nadia Lefebvre - email")
+# Hello! I’m Nadia, frontend developer 👋
 
-### 🛠 Languages and tools :
+### 🌱 I graduated from [Technigo](https://www.technigo.io "Technigo")'s bootcamp, class of January '22, but since then, I'm sharpening and broadening my tech skills.
+### 📚 My portfolio is [available here](https://nadialefebvre.dev/ "Nadia Lefebvre - portfolio").
+### 💼 You can find me [on LinkedIn](https://www.linkedin.com/in/nadiainsweden/ "Nadia Lefebvre - LinkedIn"), or reach me [via email](mailto:dev.nadialefebvre@gmail.com "Nadia Lefebvre - email").
+<br />
+
+<div align="center">
+  
+## 🛠 Languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -25,12 +28,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 <div align="center">
 
-  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadialefebvre&hide=Procfile&hide_title=true&hide_border=true&layout=compact)](https://github.com/nadialefebvre)
+  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadialefebvre&hide=Procfile&hide_border=true&layout=compact)](https://github.com/nadialefebvre)
   
+</div>
 </div>
