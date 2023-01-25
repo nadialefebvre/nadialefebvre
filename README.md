@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="name-typewriter.gif" width="100%" />
+  <img src="name-typewriter2.gif" width="100%" />
 </div>
 
 # Hello! I’m Nadia, frontend developer 👋
