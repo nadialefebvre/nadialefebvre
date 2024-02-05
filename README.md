@@ -1,10 +1,10 @@
+# Hello! I’m Nadia, fullstack developer 👋
+
+### Skilled fullstack developer with experience in React/Node.js and a background as a language specialist, I bring structure, attention to detail, strong communication skills, and a passion for solving problems. I am a quick learner, always eager to improve and take on new challenges. My goal is to create impactful products that matter and contribute to a knowledge-sharing culture.
+
 <div align="center">
-  <img src="name-typewriter2.gif" width="100%" />
+  <img src="name-typewriter.jpg" width="100%" />
 </div>
-
-# Hello! I’m Nadia, frontend developer 👋
-
-### Skilled frontend developer with experience in React and a background as a language specialist, I bring structure, attention to detail, strong communication skills, and a passion for solving problems. I am a quick learner, always eager to improve and take on new challenges. My goal is to create impactful products that matter and contribute to a knowledge-sharing culture.
 
 ### 🌱 I graduated from [Technigo](https://www.technigo.io "Technigo")'s web development bootcamp (class of January '22) with focus on JavaScript, React and Node.js, but since then, I'm sharpening and broadening my tech skills, especially with TypeScript.
 ### 📚 My portfolio is [available here](https://nadialefebvre.dev/ "Nadia Lefebvre - portfolio").
